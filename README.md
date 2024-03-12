@@ -34,7 +34,7 @@ Creating a Responsive eCommerce Website using React, JavaScript, JSX, Tailwind C
 
 <h1>🤸 Process to Create This Project from Scratch</h1>
 <ul>
-  <li></li>Set up a new React project.</li>
+  <li>Set up a new React project.</li>
   <li>Install necessary dependencies such as Tailwind CSS and Chakra UI.</li>
   <li>Design the user interface components using JSX and Chakra UI components.</li>
   <li>Implement functionality using JavaScript to enable shopping features.</li>
