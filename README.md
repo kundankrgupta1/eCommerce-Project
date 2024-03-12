@@ -48,16 +48,16 @@ https://github.com/kundankrgupta1/eCommerce-Project/
 
 <h1>📷 Screenshots</h1>
 <h3>🏠 Home Page</h3>
-<img src="https://raw.githubusercontent.com/kundankrgupta1/eCommerce-Project/main/src/assets/screenshots/home_page_1.png" alt="project-screenshot" width="700" height="350/">
+<img src="https://raw.githubusercontent.com/kundankrgupta1/eCommerce-Project/main/src/assets/screenshots/home_page_1.png" alt="project-screenshot" width="1000" height="450/">
 
 <h3>🏠 Home Page 2</h3>
-<img src="https://raw.githubusercontent.com/kundankrgupta1/eCommerce-Project/main/src/assets/screenshots/home_page_2.png" alt="project-screenshot" width="700" height="350/">
+<img src="https://raw.githubusercontent.com/kundankrgupta1/eCommerce-Project/main/src/assets/screenshots/home_page_2.png" alt="project-screenshot" width="1000" height="450/">
 
 <h3>📃 Category Page</h3>
-<img src="https://raw.githubusercontent.com/kundankrgupta1/eCommerce-Project/main/src/assets/screenshots/category_page_1.png" width="700" height="350/">
+<img src="https://raw.githubusercontent.com/kundankrgupta1/eCommerce-Project/main/src/assets/screenshots/category_page_1.png" width="1000" height="450/">
 
 <h3>🌌 Night Mode Desktop</h3>
-<img src="https://raw.githubusercontent.com/kundankrgupta1/eCommerce-Project/main/src/assets/screenshots/desktop_night_mode.png" alt="project-screenshot" width="700" height="350/">
+<img src="https://raw.githubusercontent.com/kundankrgupta1/eCommerce-Project/main/src/assets/screenshots/desktop_night_mode.png" alt="project-screenshot" width="1000" height="450/">
 
 <h3>📱 Responsive Mobile View</h3>
-<img src="https://raw.githubusercontent.com/kundankrgupta1/eCommerce-Project/main/src/assets/screenshots/mobile_home_page.png" alt="project-screenshot" width="700" height="350/">
+<img src="https://raw.githubusercontent.com/kundankrgupta1/eCommerce-Project/main/src/assets/screenshots/mobile_home_page.png" alt="project-screenshot" width="400" height="750/">
